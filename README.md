@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Backend Projects
 - 💬 Ask me about React
 
-[Linkedin Profile](https://www.linkedin.com/in/harsh-kumar-jha-1531321b9/)
+![Linkedin Profile](https://cdn-icons-png.flaticon.com/512/174/174857.png)(https://www.linkedin.com/in/harsh-kumar-jha-1531321b9/)
