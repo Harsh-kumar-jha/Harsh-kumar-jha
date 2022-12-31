@@ -53,7 +53,7 @@ I'm a web developer enthusiast... always learning while coding. Love to learn fr
 </p>
 <p>
   <img
-    src="[https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg](https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png)"
+    src="https://raw.githubusercontent.com/gilbarbara/logos/0fabdf6def45abdfa138996fc20392e8004ad0b9/logos/nextjs.svg"
     alt="NextJs" height="40" style="vertical-align:top; margin:4px">  
 </p>
 
