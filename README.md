@@ -57,12 +57,6 @@ I'm a web developer enthusiast... always learning while coding. Love to learn fr
     alt="NextJs" height="40" style="vertical-align:top; margin:4px">  
 </p>
 
-
-
-| | |
-| -------- | -------- |
-|<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Harsh-kumar-jha&show_icons=true&theme=nord" /> | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-kumar-jha&theme=nord" /> |
-
 ---
 
 <!-- <div align="center">
