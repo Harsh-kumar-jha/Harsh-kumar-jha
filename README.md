@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi there! I'm Harsh, a Java Developer Intern at Harptec, where I work with cutting-edge technologies such as Spring Boot, Kubernetes, Docker, and AWS. With a background in Java full-stack and MERN stack development, I am passionate about building scalable backend solutions and cloud-native applications.<br><br>I enjoy solving complex problems and continually improving my software architecture and cloud deployment skills. Feel free to explore my repositories and connect with me on my coding journey!<br><br>🌱 Currently expanding my knowledge in container orchestration and cloud infrastructure. 🚀 Looking forward to contributing to open-source and collaborating on innovative projects.
+👋 Hi there! I'm Harsh, a Java Developer Intern at Harptec, where I work with cutting-edge technologies such as Spring Boot, Kubernetes, Docker, and AWS. With a background in Java full-stack and MERN stack development, I am passionate about building scalable backend solutions and cloud-native applications.<br><br>I enjoy solving complex problems and continually improving my software architecture and cloud deployment skills. Feel free to explore my repositories and connect with me on my coding journey!<br><br>🌱 Currently expanding my knowledge in container orchestration and cloud infrastructure.
+<br><br>🚀 Looking forward to contributing to open-source and collaborating on innovative projects.
 
 
 ## 🌐 Socials:
